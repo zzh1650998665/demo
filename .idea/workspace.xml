@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88af116f-7d0d-478e-823a-8695daae3a49" name="Default Changelist" comment="" />
+    <list default="true" id="88af116f-7d0d-478e-823a-8695daae3a49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/student-simple/target/" />
@@ -74,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hello-app/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <state relative-caret-position="340">
+              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -110,8 +112,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/example/eurekaserver/controller/ServerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,7 +184,6 @@
         <option value="$PROJECT_DIR$/users-app/pom.xml" />
         <option value="$PROJECT_DIR$/users-app/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/users-app/src/main/java/com/example/usersapp/UsersApp.java" />
-        <option value="$PROJECT_DIR$/eureka-server/src/main/java/com/example/eurekaserver/controller/ServerController.java" />
         <option value="$PROJECT_DIR$/users-app/src/main/java/com/example/usersapp/service/HelloService.java" />
         <option value="$PROJECT_DIR$/users-app/src/main/java/com/example/usersapp/controller/HelloController.java" />
         <option value="$PROJECT_DIR$/hello-app/src/main/java/com/example/helloapp/controller/Config.java" />
@@ -193,6 +194,7 @@
         <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/hello-app/pom.xml" />
         <option value="$PROJECT_DIR$/hello-app/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/java/com/example/eurekaserver/controller/ServerController.java" />
       </list>
     </option>
   </component>
@@ -616,7 +618,7 @@
       <workItem from="1565404248553" duration="3652000" />
       <workItem from="1565416877908" duration="6451000" />
       <workItem from="1565428146852" duration="4900000" />
-      <workItem from="1565488634993" duration="3911000" />
+      <workItem from="1565488634993" duration="4573000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1565506315989</created>
@@ -632,17 +634,31 @@
       <option name="project" value="LOCAL" />
       <updated>1565506496903</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第三次提交">
+      <created>1565508518173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565508518173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四次提交">
+      <created>1565508696853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565508696853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29378000" />
+    <option name="totallyTimeSpent" value="30040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.21481876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973262" visible="true" weight="0.21481876" />
       <window_info id="Structure" order="1" sideWeight="0.5026738" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.5009346" side_tool="true" weight="0.25" />
@@ -665,7 +681,7 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="14" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="JRebel Executor" order="15" />
       <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -696,7 +712,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第二次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
+    <MESSAGE value="第三次提交" />
+    <MESSAGE value="第四次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/student-simple/pom.xml" />
@@ -853,15 +871,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-app/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="340">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/com/example/eurekaserver/controller/ServerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
