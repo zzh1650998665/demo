@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="users-app" />
+        <module name="eureka-server" />
+        <module name="EurekaServerAll" />
+        <module name="hello-app" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo1" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="EurekaServer" target="1.8" />
+      <module name="EurekaServerAll" target="1.8" />
+      <module name="hello-app" target="1.8" />
+      <module name="student-simple" target="1.8" />
+      <module name="user-app" target="1.8" />
+      <module name="users-app" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="EurekaServer" options="-parameters" />
+      <module name="EurekaServerAll" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo1" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="hello-app" options="-parameters" />
+      <module name="student-simple" options="-parameters" />
+      <module name="user-app" options="-parameters" />
+      <module name="users-app" options="-parameters" />
+    </option>
+  </component>
+</project>
