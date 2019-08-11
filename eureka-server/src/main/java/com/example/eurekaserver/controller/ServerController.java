@@ -16,4 +16,8 @@ public class ServerController {
         return "这是服务器的东西啊！！！";
     }
 
+    public void update(){
+
+    }
+
 }
